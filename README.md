@@ -45,6 +45,11 @@ PyQt5
 
 Requests
 
+**Interface:**
+
+![image](https://github.com/user-attachments/assets/c59855a5-be5c-4ed6-9513-241c811cd821)
+
+
 
 **Future Improvements:**
 
