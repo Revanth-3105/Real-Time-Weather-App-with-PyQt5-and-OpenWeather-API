@@ -40,7 +40,9 @@ Click the "Get Weather" button to display real-time weather data, including temp
 **System Requirements:**
 
 Python 3.x
+
 PyQt5
+
 Requests
 
 
